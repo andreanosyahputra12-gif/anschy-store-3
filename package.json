@@ -1,0 +1,9 @@
+{
+  "name": "anschy-store",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Anschy Store",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  }
+}
